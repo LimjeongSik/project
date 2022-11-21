@@ -1,0 +1,16 @@
+{
+    "files": {
+        "main.css": "/static/css/main.34161e31.css",
+        "main.js": "/static/js/main.1700612d.js",
+        "static/media/PretendardVariable.ttf": "/static/media/PretendardVariable.d008a69682c7c6bef29a.ttf",
+        "service-worker.js": "/service-worker.js",
+        "static/media/Bebas-Regular.ttf": "/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
+        "index.html": "/index.html",
+        "main.34161e31.css.map": "/static/css/main.34161e31.css.map",
+        "main.1700612d.js.map": "/static/js/main.1700612d.js.map"
+    },
+    "entrypoints": [
+        "static/css/main.34161e31.css",
+        "static/js/main.1700612d.js"
+    ]
+}
