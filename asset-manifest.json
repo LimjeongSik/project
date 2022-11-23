@@ -1,16 +1,19 @@
 {
-    "files": {
-        "main.css": "/static/css/main.34161e31.css",
-        "main.js": "/static/js/main.1700612d.js",
-        "static/media/PretendardVariable.ttf": "/static/media/PretendardVariable.d008a69682c7c6bef29a.ttf",
-        "service-worker.js": "/service-worker.js",
-        "static/media/Bebas-Regular.ttf": "/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
-        "index.html": "/index.html",
-        "main.34161e31.css.map": "/static/css/main.34161e31.css.map",
-        "main.1700612d.js.map": "/static/js/main.1700612d.js.map"
-    },
-    "entrypoints": [
-        "static/css/main.34161e31.css",
-        "static/js/main.1700612d.js"
-    ]
+  "files": {
+    "main.css": "/static/css/main.78ed33f2.css",
+    "main.js": "/static/js/main.d1bc5e42.js",
+    "static/media/PretendardVariable.ttf": "/static/media/PretendardVariable.d008a69682c7c6bef29a.ttf",
+    "static/media/img3.png": "/static/media/img3.1a3e7b02cddd2640dcfa.png",
+    "static/media/img1.png": "/static/media/img1.3bbede522688f2d51c71.png",
+    "static/media/img2.png": "/static/media/img2.9a16d264a1d3a8ecd7a8.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Bebas-Regular.ttf": "/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
+    "index.html": "/index.html",
+    "main.78ed33f2.css.map": "/static/css/main.78ed33f2.css.map",
+    "main.d1bc5e42.js.map": "/static/js/main.d1bc5e42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ed33f2.css",
+    "static/js/main.d1bc5e42.js"
+  ]
 }
