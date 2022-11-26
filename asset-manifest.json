@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.96130dc2.css",
-    "main.js": "/static/js/main.1be2e252.js",
+    "main.js": "/static/js/main.c6920b59.js",
     "static/media/PretendardVariable.ttf": "/static/media/PretendardVariable.d008a69682c7c6bef29a.ttf",
     "static/media/img3.png": "/static/media/img3.1a3e7b02cddd2640dcfa.png",
     "static/media/img1.png": "/static/media/img1.3bbede522688f2d51c71.png",
@@ -10,10 +10,10 @@
     "static/media/Bebas-Regular.ttf": "/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
     "index.html": "/index.html",
     "main.96130dc2.css.map": "/static/css/main.96130dc2.css.map",
-    "main.1be2e252.js.map": "/static/js/main.1be2e252.js.map"
+    "main.c6920b59.js.map": "/static/js/main.c6920b59.js.map"
   },
   "entrypoints": [
     "static/css/main.96130dc2.css",
-    "static/js/main.1be2e252.js"
+    "static/js/main.c6920b59.js"
   ]
 }
